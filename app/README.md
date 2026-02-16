@@ -50,7 +50,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, contact [aadarsha07](https://github.com/aadarsha07).
+For questions or support, contact [padhikari26](https://github.com/padhikari26).
 
 
 ### Building the App
