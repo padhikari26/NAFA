@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "574478962677",
+    "project_id": "nafusa-7b37f",
+    "storage_bucket": "nafusa-7b37f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574478962677:android:980b34a0b4f23c9cef9abc",
+        "android_client_info": {
+          "package_name": "com.codegaun.nafausa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjb4NsRHknGXAcCk2IfiCgS-9HqfGEzWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574478962677-hkbh7gqjb1qp9lbjrtssam2r4jk3q6pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codegaun.nafausa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
