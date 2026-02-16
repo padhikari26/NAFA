@@ -23,7 +23,7 @@ NAFA Mobile App is a cross-platform application designed to provide users with a
 ### Installation
 1. Clone the repository:
 	```bash
-	git clone https://github.com/aadarsha07/nafausa-app.git
+	git clone https://github.com/padhikari26/NAFA-app.git
 	```
 2. Navigate to the project directory:
 	```bash
